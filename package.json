@@ -1,0 +1,11 @@
+{
+  "name": "hoteltesting",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^13.6.4"
+  }
+}
